@@ -4,7 +4,7 @@ This project uses the Cryptonator api for fetching real time values via a data r
 
 ### Thanks for having a look. Check it live here [Live Demo](https://github.com/facebook/create-react-app)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://suspicious-agnesi-0c36ed.netlify.app/).
 
 ## Available Scripts
 
